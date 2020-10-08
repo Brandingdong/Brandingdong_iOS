@@ -65,17 +65,17 @@
 ```
 
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_2.png" width = "600" height = "400" />
+<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_2.png" width = "400" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_3.png" width = "400" height = "400" />
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_3.png" width = "600" height = "400" />
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_4.png" width = "600" height = "400" />
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_5.png" width = "600" height = "400" />
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_6.png" width = "600" height = "400" />
+<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_4.png" width = "400" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_5.png" width = "400" height = "400" />
 
-<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_7.png" width = "600" height = "400" />
+
+
+
+<img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_6.png" width = "400" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_7.png" width = "400" height = "400" />
 
 
 
@@ -112,7 +112,10 @@
 
 <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/gifs/Brandingdong_ProductBuy.gif" width = "200" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/gifs/Brandingdong_ShoppingBasket.gif" width = "200" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/gifs/Brandingdong_Favorite.gif" width = "200" height = "400" />     <img src = "https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/gifs/Brandingdong_Mypage.gif" width = "200" height = "400" />
 
+## 최종 시현 영상
 
 
 
 
+[![브랜딩동_시현영상](https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_8.png)](https://www.youtube.com/watch?v=_zR8TFKT3Jc)
+  
