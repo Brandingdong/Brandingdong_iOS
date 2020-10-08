@@ -119,6 +119,3 @@
 
 [![브랜딩동_시현영상](https://github.com/jwlee07/Brandingdong_iOS/blob/develop/Brandingdong/ReadMeImages/images/Brandingdong_8.png)](https://www.youtube.com/watch?v=_zR8TFKT3Jc)
   
-
-<iframe width="300" height="400" src="https://www.youtube.com/embed/_zR8TFKT3Jc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
